@@ -3,6 +3,7 @@ chromedriver.exe
 .vscode/
 .idea
 *.png
+*.apk
 
 
 # Byte-compiled / optimized / DLL files
