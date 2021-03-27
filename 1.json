@@ -1,0 +1,16 @@
+{
+    "Body": {
+        "Type": 1,
+        "Token": "eOSjOPOgSL6Yj2AgQ8O-uV:APA91bHrHYhC_LyyeqpLJ7MIfoU-ssOil6-XwbvBNut6I5XxeKZ26ZHLlM4iaWF7p4xlKnQt2s5Ab1jkc_oqvyiDdz-YqZEOvUIGG2klqtCdEwejsvl0eNrD15ZILWFpgiPersQp1-h4"
+    },
+    "Head": {
+        "AdvertisingId": "cb98c87c-6d1d-4ecb-802a-4582eae21037",
+        "AppsFlyerId": "1616776039052-7495429393591335570",
+        "Client": "android_10_4.37.1",
+        "DeviceId": "cb98c87c-6d1d-4ecb-802a-4582eae21037",
+        "MarketingPartnerKey": "mp30-5332b7f24ba54351047601d78f90dafbfd7fcc295f966d3af19aeb",
+        "SessionToken": "0CFF1C4B9F4BB682CACBE33A2EB41F96",
+        "Store": "utk",
+        "Theme": "light"
+    }
+}

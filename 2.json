@@ -1,0 +1,33 @@
+{
+    "Body": {
+        "Type": 1,
+        "Token": "chYBvKAHT5arRGp9FADpgZ:APA91bEWDs7F7P2B3l1eT2ChNDe1vt6C_QDMHehTfPPW-7PwxpoH6ticWZ4lhwBeIDg92Mt8OcHc_VnMQUGhaZ39EIEgdPcolRh7SQ_bXxCflOkbKm9UecuxS5gVsor7Cr3fHdSDuysz"
+    },
+    "Head": {
+        "AdvertisingId": "cb98c87c-6d1d-4ecb-802a-4582eae21037",
+        "AppsFlyerId": "1616770089027-770799901119709671",
+        "Client": "android_10_4.37.1",
+        "DeviceId": "cb98c87c-6d1d-4ecb-802a-4582eae21037",
+        "MarketingPartnerKey": "mp30-5332b7f24ba54351047601d78f90dafbfd7fcc295f966d3af19aeb",
+        "SessionToken": "545EA848E79ABE857C91856DEA5F4089",
+        "Store": "utk",
+        "Theme": "light"
+    }
+}
+
+{
+    "Body": {
+        "Type": 1,
+        "Token": "chYBvKAHT5arRGp9FADpgZ:APA91bEWDs7F7P2B3l1eT2ChNDe1vt6C_QDMHehTfPPW-7PwxpoH6ticWZ4lhwBeIDg92Mt8OcHc_VnMQUGhaZ39EIEgdPcolRh7SQ_bXxCflOkbKm9UecuxS5gVsor7Cr3fHdSDuysz"
+    },
+    "Head": {
+        "AdvertisingId": "cb98c87c-6d1d-4ecb-802a-4582eae21037",
+        "AppsFlyerId": "1616770089027-770799901119709671",
+        "Client": "android_10_4.37.1",
+        "DeviceId": "cb98c87c-6d1d-4ecb-802a-4582eae21037",
+        "MarketingPartnerKey": "mp30-5332b7f24ba54351047601d78f90dafbfd7fcc295f966d3af19aeb",
+        "SessionToken": "545EA848E79ABE857C91856DEA5F4089",
+        "Store": "utk",
+        "Theme": "light"
+    }
+}
