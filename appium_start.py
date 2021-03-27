@@ -19,7 +19,7 @@ driver = webdriver.Remote(command_executor=executor,
 time.sleep(15)
 main_button = driver.find_element(By.ID, "ru.utkonos.android.utkonoid:id/action_main")
 print(f'нашел баттон {main_button}')
-time.sleep(15)
+time.sleep(14)
 
 main_button.click()
 print(f'нажал баттон {main_button}')
